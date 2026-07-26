@@ -1,3 +1,4 @@
 # csit6th
-This is my first git repository
-I am trying to learn skill of git
+<h2>This is my first git repository</h2>
+<br>
+I am trying to learn skills of git
